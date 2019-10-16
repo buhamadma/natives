@@ -13,3 +13,6 @@ BOOL IS_PED_IN_PARACHUTE_FREE_FALL(Ped ped);
 * **ped**: 
 
 ## Return value
+
+##lua example:
+IsPedInParachuteFreeFall(PlayerPedId())
